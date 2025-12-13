@@ -1,6 +1,6 @@
 export default {
   // 网站标题
-  Title: '韩小韩博客',
+  Title: '愚人blog',
   // 网站地址
   Site: 'https://www.vvhan.com',
   // 网站副标题
