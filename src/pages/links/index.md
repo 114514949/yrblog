@@ -8,13 +8,9 @@ type: "links"
 
 :::note{type="success"}
 ✉️ 在评论区按以上格式留下你的友链数据，和我互换友链吧！
-
-👭 排名不分先后，每次刷新 友链 会随机排列噢~
+求求了快来几个大佬吧！🥺博客新开张冷清的一批
 :::
 
 ```yaml
-name: 韩小韩博客
-link: https://www.vvhan.com/
-avatar: https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640
-desc: 运气是计划之外的东西.
+荒无人烟
 ```
