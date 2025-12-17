@@ -2,7 +2,7 @@ export default {
   // 网站标题
   Title: '愚人blog',
   // 网站地址
-  Site: 'https://yrblog.2807078381.workers.dev',
+  Site: 'https://yrblog.qzz.io',
   // 网站副标题
   Subtitle: '专注于分享精品软件',
   // 网站描述
@@ -95,12 +95,12 @@ export default {
   Comment: {
     // Twikoo 评论
     Twikoo: {
-      enable: true,
+      enable: false,
       envId: ''
     },
     // Waline 评论
     Waline: {
-      enable: false,
+      enable: true,
       serverURL: ''
     }
   },
